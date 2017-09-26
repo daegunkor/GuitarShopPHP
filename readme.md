@@ -6,4 +6,4 @@
 
 概要｜ギターを売るショッピングモール。商品の登録、販売、購入、ウィッシュ・リスなどの機能がある。
 
-<img src='./readmeImg/'>
+<img src='./_readmeImg/shopmall.jpg'>
